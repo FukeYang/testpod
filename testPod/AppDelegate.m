@@ -17,8 +17,17 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    return YES;
     NSLog(@"0");
+    NSLog(@"0");
+    NSLog(@"0");
+    NSLog(@"0");
+    NSLog(@"0");
+    NSLog(@"0");
+    NSLog(@"0");
+    NSLog(@"0");
+    NSLog(@"0");
+    NSLog(@"0");
+    return YES;
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
